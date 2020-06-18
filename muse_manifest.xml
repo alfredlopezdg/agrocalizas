@@ -1,0 +1,524 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="agro.com" resolutions="1x" timestamp="1592516887728">
+  <folder name="css">
+    <file name="site_global.css" crc="452198331"/>
+    <file name="master_a-p_g_-maestra.css" crc="3945657454" ref="index"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="14459344" ref="index"/>
+    <file name="index.css" crc="485034829" ref="index"/>
+    <file name="nomq_index.css" crc="532262008" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="1236.jpg" crc="3893422783" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-agrocalizas.svg" crc="226132290" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo agrocalizas_poster_.png" crc="249349486" ref="index"/>
+    <file name="empresa.png" crc="130322635" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mision.png" crc="324682636" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vision.png" crc="4280450041" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fondo productos.jpg" crc="4008941695" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cal agricola .png" crc="360634626" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cal dolomita.png" crc="3977918776" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="zeolita agricola .png" crc="3830079659" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="silicato de calcio.png" crc="3869754006" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yeso agricola.png" crc="3812841410" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="roca fosforica.png" crc="480016275" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="inducal m200.png" crc="51106802" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="oxido plus m100.png" crc="3855629311" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="motor 2.png" crc="3941670163" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="figure-motocultores.jpg" crc="317771583" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ford-fpx20e-su-motoru-2__1265539751955977.jpg" crc="450950161" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="generador-electrico-de-gasolina-av-5000e-monofasico-de-5000w.jpg" crc="160253680" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="motor.jpg" crc="3896228213" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="producto2.jpg" crc="3978233153" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="motosoldadora-sdw-180e-krafter.png" crc="266068300" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="workman_complete_01jpg2450e670-3fb0-4d5b-92a6-035d6fbce114zoom.jpg" crc="465847991" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="refractorio.jpg" crc="4165918832" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="morteros.gif" crc="4230654911" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="erecos.jpg" crc="185670999" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cemento refragtario.jpg" crc="410474677" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home.svg" crc="4098214680" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home_poster_.png" crc="4289376225" ref="index"/>
+    <file name="cel.svg" crc="4046613787" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cel_poster_.png" crc="3891314070" ref="index"/>
+    <file name="mail.svg" crc="3949590690" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mail_poster_.png" crc="4268007114" ref="index"/>
+    <file name="foto 1.jpg" crc="4206590979" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="foto 2.jpg" crc="68699658" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 3.jpg" crc="4053274422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 4.jpg" crc="412458369" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 8.jpg" crc="321459794" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 7.jpg" crc="4134775821" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 5.jpg" crc="136252403" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 6.jpg" crc="380518728" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 1280x210.jpg" crc="4139175439" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 2280x212.jpg" crc="4245261583" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 3280x187.jpg" crc="3883788605" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 4322x181.jpg" crc="267246060" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 8322x181.jpg" crc="3881671687" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 7280x187.jpg" crc="3831733270" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 5280x210.jpg" crc="432128624" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 6-crop-u1149.jpg" crc="123813673" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="ico_face.svg" crc="3934673239" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico_face_poster_.png" crc="474891035" ref="index"/>
+    <file name="ico_insta.svg" crc="4292897113" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico_insta_poster_.png" crc="3912723772" ref="index"/>
+    <file name="ico_whats.svg" crc="4013190499" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico_whats_poster_.png" crc="186367278" ref="index"/>
+    <file name="empresa-u2003-fr.png" crc="3892218512" ref="index"/>
+    <file name="mision-u2005-fr.png" crc="264004389" ref="index"/>
+    <file name="vision-u2004-fr.png" crc="343049216" ref="index"/>
+    <file name="foto 6-crop-u11492.jpg" crc="123813673" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 6-crop-u11493.jpg" crc="123813673" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="empresa-u2003-fr2.png" crc="10797435" ref="index"/>
+    <file name="mision-u2005-fr2.png" crc="62811992" ref="index"/>
+    <file name="vision-u2004-fr2.png" crc="3795036687" ref="index"/>
+    <file name="foto 1-crop-u726.jpg" crc="142520966" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 2-crop-u1045.jpg" crc="476480258" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 3240x160.jpg" crc="174322588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 4253x142.jpg" crc="384271729" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 8253x142.jpg" crc="3975830761" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 7240x160.jpg" crc="398497302" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 5-crop-u1123.jpg" crc="3852676773" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 6-crop-u11494.jpg" crc="414595993" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 1195x147.jpg" crc="406697478" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 2195x148.jpg" crc="4098943876" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 3195x130.jpg" crc="282673815" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 4214x120.jpg" crc="4248592449" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 8214x120.jpg" crc="3840461486" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 7195x130.jpg" crc="110923410" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 5195x147.jpg" crc="137052880" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 6-crop-u11495.jpg" crc="405502556" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="empresa-u2003-fr3.png" crc="4048726520" ref="index"/>
+    <file name="mision-u2005-fr3.png" crc="4264148917" ref="index"/>
+    <file name="vision-u2004-fr3.png" crc="342394824" ref="index"/>
+    <file name="foto 1123x93.jpg" crc="429937897" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 2123x93.jpg" crc="3791697879" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 3123x82.jpg" crc="245885589" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 4141x79.jpg" crc="4206375992" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 8141x79.jpg" crc="429939746" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 7123x82.jpg" crc="39955162" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 5123x93.jpg" crc="4012849320" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 6-crop-u11496.jpg" crc="535659929" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico_whatsapp_movil.svg" crc="163963940" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico_whatsapp_movil_poster_.png" crc="4054667996" ref="index"/>
+    <file name="empresa-u2003-fr4.png" crc="97534987" ref="index"/>
+    <file name="mision-u2005-fr4.png" crc="4023637276" ref="index"/>
+    <file name="vision-u2004-fr4.png" crc="339942718" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3777726163" seo="true" mt="1592516833247" redirect="true"/>
+</manifest>
